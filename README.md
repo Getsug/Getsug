@@ -1,10 +1,10 @@
 ### Hello 👋
 I'm Herbert.
 
-👨‍🎓 Computer Science Student at Kyungpook National University.
-🌐 Aspiring Software Developer.
-🚀 Passionate about Coding and Problem Solving.
-🤖 Exploring the World of Machine Learning.
+    👨‍🎓 Computer Science Student at Kyungpook National University.
+    🌐 Aspiring Software Developer.
+    🚀 Passionate about Coding and Problem Solving.
+    🤖 Exploring the World of Machine Learning.
 
 <!--
 **Getsug/Getsug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
