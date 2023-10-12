@@ -1,6 +1,10 @@
-### Hello, I'm Herbert 👋
+### Hello 👋
+I'm Herbert
 
-A Computer Science student interested in  software development and machine learning.
+👨‍🎓 Computer Science Student at Kyungpook National University
+🌐 Aspiring Software Developer
+🚀 Passionate about Coding and Problem Solving
+🤖 Exploring the World of Machine Learning
 
 <!--
 **Getsug/Getsug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### 💼 Work Experience
-- [Internship/Work Position 1](link_to_position_1)
-- [Internship/Work Position 2](link_to_position_2)
 
 ### 🌱 Currently Learning
 I’m currently learning and working on exciting projects to further enhance my skills.
@@ -41,5 +41,5 @@ I’m currently learning and working on exciting projects to further enhance my 
 
 I'm always open to collaboration on exciting projects or simply discussing technology and its impact on our world. Feel free to reach out to me via email or through my social media profiles.
 
-🚀 Check out my repositories and let's make a difference through technology!
+✈ Check out my repositories and let's make a difference through technology!
 
