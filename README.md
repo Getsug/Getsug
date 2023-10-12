@@ -41,7 +41,7 @@ I’m currently learning and working on exciting projects to further enhance my 
 
 ### 🌟 Let's Collaborate
 
-I'm always open to collaboration on exciting projects or simply discussing technology and its impact on our world. Feel free to reach out to me via email or through my social media profiles.
+I'm always open to collaboration on exciting projects or simply discussing technology and its impact on our world. Feel free to reach out to me through my social media profile.
 
-✈ Check out my repositories and let's make a difference through technology!
+    ✈ Check out my repositories and let's make a difference through technology!
 
