@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - [Internship/Work Position 1](link_to_position_1)
 - [Internship/Work Position 2](link_to_position_2)
 
-### 🌱 I’m currently learning and working on exciting projects to further enhance my skills.
+### 🌱 Currently Learning
+I’m currently learning and working on exciting projects to further enhance my skills.
 
 ### 🚀 Here's a glimpse of what you can find on my GitHub:
 
