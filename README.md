@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Getsug&hide_progress=true)
 
 ### 🌱 Currently Learning
 I’m currently learning and working on exciting projects to further enhance my skills.
