@@ -1,10 +1,14 @@
+<!--
 ### Hello 👋
 I'm Herbert.
+-->
 
-    👨‍🎓 Computer Science Student at Kyungpook National University.
-    🌐 Aspiring Software Developer.
-    🚀 Passionate about Coding and Problem Solving.
-    🤖 Exploring the World of Machine Learning.
+![Header](./github-header-image.png)<br><br><br>
+
+- 👨‍🎓 Computer Science Student at Kyungpook National University.
+- 🌐 Software Engineer.
+- 🚀 Passionate about Coding and Problem Solving.
+- 🤖 Exploring the World of Machine Learning. )<br><br><br>
 
 <!--
 **Getsug/Getsug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,24 +24,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Getsug&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Getsug&hide_progress=true) <br><br><br>
 
-### 🌱 Currently Learning
+<!--
+### 🌱 Currently Learning 
 I’m currently learning and working on exciting projects to further enhance my skills.
+-->
 
-
+<!--
 ### 🚀 Here's a glimpse of what you can find on my GitHub:
 
 🔧 Featured Repositories
-
-    Project 1 Name - A brief description of your project. Highlight what you achieved and the technologies you used.
-    Project 2 Name - Another significant project, with a brief description and the key technologies employed.
-    Project 3 Name - Highlight any personal or academic projects that demonstrate your skills and interests.
+[Fashion Model](https://github.com/Getsug/fashion-model) 
+Project 1 Name - Highlight any personal or academic projects that demonstrate your skills and interests.
 
 🤖 Machine Learning
 
 [Fashion Model](https://github.com/Getsug/fashion-model) 
-<!-- Machine Learning Project 2 - Share your passion for machine learning with details on your latest experiments. -->
+Machine Learning Project 2 - Share your passion for machine learning with details on your latest experiments.
+-->
 
 
 ### 🌟 Let's Collaborate
