@@ -1,12 +1,11 @@
-<!--
-### Hello 👋
-I'm Herbert.
--->
-
 ![Header](./github-header-image.png) <br><br><br>
 
+
+### About me.
+
+
 - 👨‍🎓 Computer Science Student at Kyungpook National University.
-- 🌐 Software Engineer.
+- 🌐 Enjoys Software Development.
 - 🚀 Passionate about Coding and Problem Solving.
 - 🤖 Exploring the World of Machine Learning. )<br><br><br>
 
@@ -49,5 +48,5 @@ Machine Learning Project 2 - Share your passion for machine learning with detail
 
 I'm always open to collaboration on exciting projects or simply discussing technology and its impact on our world. Feel free to reach out to me through my social media profile. <br>
 
-🔧 [Check out my repositories and let's make a difference through technology!](https://github.com/Getsug?tab=repositories)
+Let's make a difference through technology. [Check out my repositories](https://github.com/Getsug?tab=repositories)
 
