@@ -47,7 +47,7 @@ Machine Learning Project 2 - Share your passion for machine learning with detail
 
 ### 🌟 Let's Collaborate
 
-I'm always open to collaboration on exciting projects or simply discussing technology and its impact on our world. Feel free to reach out to me through my social media profile.
+I'm always open to collaboration on exciting projects or simply discussing technology and its impact on our world. Feel free to reach out to me through my social media profile. <br>
 
-    ✈ Check out my repositories and let's make a difference through technology!
+🔧 [Check out my repositories and let's make a difference through technology!](https://github.com/Getsug?tab=repositories)
 
