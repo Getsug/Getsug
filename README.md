@@ -36,8 +36,8 @@ I’m currently learning and working on exciting projects to further enhance my 
 
 🤖 Machine Learning
 
-    Machine Learning Project 1 - Describe your machine learning projects and their objectives.
-    Machine Learning Project 2 - Share your passion for machine learning with details on your latest experiments.
+[Fashion Model](https://github.com/Getsug/fashion-model) 
+<!-- Machine Learning Project 2 - Share your passion for machine learning with details on your latest experiments. -->
 
 
 ### 🌟 Let's Collaborate
