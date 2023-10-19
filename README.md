@@ -1,9 +1,9 @@
 <!--
 ### Hello 👋
 I'm Herbert.
--->
 
-![Header](./github-header-image.png)<br><br><br>
+
+![Header](./github-header-image.png)<br><br><br>-->
 
 - 👨‍🎓 Computer Science Student at Kyungpook National University.
 - 🌐 Software Engineer.
