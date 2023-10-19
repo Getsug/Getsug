@@ -7,7 +7,7 @@
 - 👨‍🎓 Computer Science Student at Kyungpook National University.
 - 🌐 Enjoys Software Development.
 - 🚀 Passionate about Coding and Problem Solving.
-- 🤖 Exploring the World of Machine Learning. )<br><br><br>
+- 🤖 Exploring the World of Machine Learning. <br><br><br>
 
 <!--
 **Getsug/Getsug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
