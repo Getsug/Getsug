@@ -4,9 +4,8 @@
 ### About me.
 
 
-- 👨‍🎓 Computer Science Student at Kyungpook National University.
-- 🌐 Enjoys Software Development.
-- 🚀 Passionate about Coding and Problem Solving.
+- 👨‍🎓 Finds coding interesting.
+- 🚀 Enjoys Problem Solving.
 - 🤖 Exploring the World of Machine Learning. <br><br><br>
 
 <!--
